@@ -1,10 +1,14 @@
 import math
-
+'''Подключает библиотеку math'''
 
 def area(r):
-    return math.pi * r * r
+    '''Принимает число r - радиус'''
 
+    return math.pi * r * r
+    '''Возвращает площадь круга с радиусом r'''
 
 def perimeter(r):
-    return 2 * math.pi * r
+    '''Принимает число r - радиус'''
 
+    return 2 * math.pi * r
+    '''Возвращает длину окружности с радиусом r'''
