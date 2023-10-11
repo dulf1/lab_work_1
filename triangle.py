@@ -1,9 +1,4 @@
 def area(a, h):
-<<<<<<< HEAD
-    return a * h / 2
-def perimeter(a, b, c):
-    return a + b + c
-=======
     '''Принимает 2 числа a и h'''
 
     return a * h / 2
@@ -14,4 +9,3 @@ def perimeter(a, b, c):
 
     return a + b + c
     '''Возвращает периметр треугольника со сторонами длины a, b, c'''
->>>>>>> new_features_412983
